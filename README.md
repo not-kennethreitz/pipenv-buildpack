@@ -1,2 +1,2 @@
 # pipenv-buildpack
-A buildpack for Pipenv.
+A minimal buildpack for Pipenv.
